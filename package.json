@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-reliefweb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ReliefWeb MCP — the UN OCHA humanitarian information service.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c14a9d51468db077901a5bc02c93d171bdec7e6b76e696b27101f29b201ac6f1",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-d0632d05bb4b034673900d84e1e488778b88be564e87359f1e8ed4916ae9a168",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
